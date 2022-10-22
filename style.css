@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+span {
+    display: inline-block;
+}
+
+.pics {
+    background-color: rgb(195, 184, 217);
+    font-family: fantasy;
+}
